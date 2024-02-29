@@ -63,7 +63,13 @@
        id="rect8" /></defs><g
      inkscape:label="Content"
      inkscape:groupmode="layer"
-     id="layer1"><g
+     id="layer1"><rect
+       style="fill:#ffffff"
+       id="rect2"
+       width="830"
+       height="436"
+       x="0"
+       y="0" /><g
        id="g1"
        transform="translate(-158.3521,1.7848241)"><g
          transform="matrix(0.24613867,0,0,0.24150943,209.03824,32.000483)"
